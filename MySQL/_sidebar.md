@@ -1,12 +1,3 @@
-<!-- docs/_sidebar.md -->
-
-* [首页](/README)
-* [指南](guide.md)
-
-* 前端技术
-    * [javascript](01/javascript/RADEME.md)
-    * [echarts](01/echarts/RADEME.md)
-
 * **MySQL**
     * [ch01. 数据库和SQL概述](MySQL/ch01)
     * [ch02. MySQL的安装与使用](MySQL/ch02)

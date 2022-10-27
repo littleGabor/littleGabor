@@ -2,13 +2,9 @@
 
 ![logo](R-C.jpg)
 
-# Think about ai <small>3.5</small>
+# LittleGabor 
 
-> A magical documentation site generator.
+> 想把知识装进脑袋
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/littleGabor)
 [Get Started](README)
