@@ -1,7 +1,7 @@
-# Test
+# littleGabor的笔记
 
-> 测试
+> 用于记录前端学习
 
-Hello docsify
+ 笔记使用的是docsify框架
 
 [>>操作指南](guide)
