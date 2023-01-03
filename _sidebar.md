@@ -6,7 +6,8 @@
     * [黑马React](黑马React/reademe.md)
 * 基础篇
     * [MySQL](MySQL/readme.md)
-    * [计算机网络](计算机网络/readme.md)   
+    * [计算机网络](计算机网络/readme.md) 
+    * [操作系统](操作系统/计算机操作系统.md)  
 
 
 
